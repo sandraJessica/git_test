@@ -1,0 +1,1 @@
+This is Sandra's first git project!
